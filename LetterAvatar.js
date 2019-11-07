@@ -1,6 +1,6 @@
 /*
  * LetterAvatar
- *
+ * <img width="256" height="256" avatar="Dao Lam" color="#0D8ABC">
  * Artur Heinze
  * Create Letter avatar based on Initials
  * based on https://gist.github.com/leecrossley/6027780
